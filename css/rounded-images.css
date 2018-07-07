@@ -42,67 +42,72 @@
 
 .ch-img-5 {
     background-image: url(../img/images/5.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-6 {
-    background-image: url(..img/images/6.jpg);
+    background-image: url(../img/images/6.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-7 {
-    background-image: url(..img/images/7.jpg);
+    background-image: url(../img/images/7.jpg);
     background-position: center;
     background-size: contain;
 }
 .ch-img-8 {
-    background-image: url(..img/images/8.jpg);
+    background-image: url(../img/images/8.jpg);
     background-position: center;
     background-size: contain;
 }
 .ch-img-9 {
-    background-image: url(..img/images/9.jpg);
+    background-image: url(../img/images/9.jpg);
     background-position: center;
     background-size: 250px;
 }
 .ch-img-10 {
-    background-image: url(..img/images/10.jpg);
+    background-image: url(../img/images/10.jpg);
     background-position: center;
     background-size: contain;
 }
 .ch-img-11 {
-    background-image: url(..img/images/11.jpg);
+    background-image: url(../img/images/11.jpg);
+   background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-12 {
-    background-image: url(..img/images/12.jpg);
+    background-image: url(../img/images/12.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 210px;
 }
 .ch-img-13 {
-    background-image: url(..img/images/13.jpg);
+    background-image: url(../img/images/13.jpg);
     background-position: center;
     background-size: contain;
 }
 .ch-img-14 {
-    background-image: url(..img/images/14.jpg);
+    background-image: url(../img/images/14.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-15 {
-    background-image: url(..img/images/15.jpg);
+    background-image: url(../img/images/15.jpg);
     background-position: center;
     background-size: contain;
 }
 
 .ch-img-16 {
-    background-image: url(..img/images/16.jpg);
+    background-image: url(../img/images/16.jpg);
     background-position: center;
     background-size: contain;
 }
 .ch-img-17 {
-    background-image: url(..img/images/17.jpg);
+    background-image: url(../img/images/17.jpg);
     background-position: center;
     background-size: contain;
 }
