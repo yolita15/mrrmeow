@@ -97,65 +97,65 @@
 }
 .ch-img-15 {
     background-image: url(../img/images/15.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 
 .ch-img-16 {
     background-image: url(../img/images/16.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-17 {
     background-image: url(../img/images/17.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-18 {
-    background-image: url(..img/images/18.jpg);
+    background-image: url(../img/images/18.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-19 {
-    background-image: url(..img/images/19.jpg);
+    background-image: url(../img/images/19.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-20 {
-    background-image: url(..img/images/20.jpg);
+    background-image: url(../img/images/20.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-21 {
-    background-image: url(..img/images/21.jpg);
+    background-image: url(../img/images/21.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-22 {
-    background-image: url(..img/images/22.jpg);
+    background-image: url(../img/images/22.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-23 {
-    background-image: url(..img/images/23.jpg);
+    background-image: url(../img/images/23.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
 .ch-img-24 {
-    background-image: url(..img/images/24.jpg);
+    background-image: url(../img/images/24.jpg);
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: 220px 220px;
 }
-.ch-img-25 {
-    background-image: url(..img/images/25.jpg);
-    background-position: center;
-    background-size: contain;
-}
-
-
-
-
-
 
 .ch-info {
     position: absolute;
